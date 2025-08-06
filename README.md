@@ -1,6 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/3TsFj7A-)
 # Bienvenidos a la Tarea de HTML y CSS
 
+##Carlos Andrés Vargas
+###Este es el [link](https://dsaw-2025-ii.github.io/my-cv-part-a-vargasesc17/) para acceder al HTML de mi CV.
+
 ¡Hola a todos!
 
 En esta tarea, vamos a crear nuestra propia hoja de vida (CV) utilizando HTML y CSS. Este ejercicio está dividido en dos partes para que puedan enfocarse primero en la estructura y luego en el diseño.
