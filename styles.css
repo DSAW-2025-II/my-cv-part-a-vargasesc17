@@ -2,6 +2,7 @@
 body {
     font-family: "Inter", sans-serif;
     line-height: 1.5;
+
 }
 
 /*Encabezado*/
@@ -17,12 +18,12 @@ body {
 
 .info-general h1 {
     font-size: 1.5em;
-    color: #1E4554;
+    color: black;
 }
 
 .info-general h2 {
     font-size: 1.2em;
-    color: #1E4554;
+    color: black
 }
 
 .info-contacto {
@@ -46,3 +47,45 @@ body {
     width: 150px;
     border-radius: 50%
 }
+
+/*Apartado de información personal*/
+.info-completa {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr;
+    padding: 20px;
+    border-radius: 10px;
+    line-height: 1.6;
+}
+
+.academico-laboral {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+/*Apartado de Intereses, Habilidades y Hobbies*/
+.hab-int-hob {
+    background-color: #5F8196;
+    border-radius: 10px;
+    padding: 15px;
+    color: white;
+}
+
+
+.hab-int-hob h2 {
+    font-size: 1em;
+}
+
+.hab-int-hob h3 {
+    font-size: 0.9em;
+}
+.hab-int-hob li {
+    font-size: 0.8em;
+}
+
+/*Resumen, formación académica y laboral*/
+.academico-laboral {
+    padding: 0;
+}
+
+/*Apartado de resumen*/
